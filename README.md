@@ -3,7 +3,7 @@
 # <h1 align=center> **`PROYECTO FINAL GRUPO Nº 7`** </h1>
 
 <h1 align="center">
-  <span style="font-size: 25px;">@utores:  Javier Castro, Luca Ramallo, Luis Ramirez, Lesmen Garcia.</span> <br>
+  <span style="font-size: 20px;">@utores:Javier Castro, Luca Ramallo, Luis Ramírez, Lesmen García.</span> <br>
   <a href="https://github.com/lesmengp/Proyecto-Final-Grupo-07.git">GitHub: <span style="font-size: 20px;">Proyecto Yelp & Google Maps</span></a> <br> 
 </h1>
 
@@ -13,7 +13,79 @@
 <img src="src/Imagenes/Img01.png", height=300>
 </p>
 
-### Objetivo General:<Br>
+
+<div id="Indice_Contenido"/>
+
+## **Indice de Contenido**
+
+- [JL³ Inversores](#JL3)
+- [Consultores Data Science](#Consultores-Data-Science)
+- [Misión](#Mision)
+- [Visión](#Vision)
+- [Descripción del Proyecto](#Descripción-del-proyecto)
+- [Objetivo General](#Objetivo)
+- [Alcance](#Alcance)
+- [Propuesta Tecnológica](#Propuesta-T)
+- [Cronograma de Actividades](#CronogramaA)
+- [Automatización](#Automatizacion)
+- [Arquitectura Machine Learning](#Arquitectura-ML)
+- [Estructura del Directorio de Trabajo](#Estructura)
+- [Fuente de Datos](#Fuente-Datos)
+
+
+
+<div id="JL3"/>
+
+## **JL³ Inversores**
+
+**En JL³ Inversores**, somos un equipo altamente productivo de TI en Soluciones de Analítica, especializados en Business Analytics, Big Data y Ciencias de Datos. <Br> Nuestro principal objetivo es transformar tus datos en información valiosa para la toma de desiciones estratégicas, ante la nueva epoca de la transformación digital.
+
+<div id="Consultores-Data-Science"/>
+
+### **Consultores Data Science:**
+
+<p align="center">
+<img src="src/Imagenes/EuipoDS.png", height=300>
+</p>
+
+### <h4 align=center>*`Somo las sexta estrella para nuestros clientes...!!!`*</h4>
+
+### GitHub / Email / Linkedin:
+- [Javier Castro](https://github.com/jachcastro), Data Engineer / [Email](jachcastro@gmail.com) / [Linkdin](https://linkedin.com/in/javier-castro-hermoza-1a581032)
+- [Luis Ramírez](https://github.com/ramirezgluisalberto), Data Engineer / [Email](ramirezgluisalberto@gmail.com) / [Linkdin](luis-alberto-ramirez-guerrero-6a61114a)
+- [Luca Ramallo](https://github.com/lucaramallo), Data Analytics / [Email](lucaramallo@gmail.com) / [Linkdin](https://linkedin.com/in/lucaramallo)
+- [Lesmen García](https://github.com/lesmengp), Data Scientis / [Email](lesmengp@gmail.com) / [Linkdin](https://linkedin.com/in/lesmengp-lg2p)
+
+
+<div id="Mision"/>
+
+## **Misión**
+- Garantizar un servicio seguro, confiable y de alta calidad en escenarios de inversión para la toma de decisiones financieras altamente rentables para nuestros clientes.
+
+
+<div id="Vision"/>
+
+## **Visión**
+- Ofrecer un abanico amplio de soluciones de inversión enfocado en alternativas de selección dinámica con datos actualizados en tiempo real, que permita a nuestros clientes crear sus propios escenarios híbridos de inversión financiera. 
+
+
+
+<div id="Descripción-del-proyecto"/>
+
+## **Descripción del Proyecto**
+- Realizar un analisís de datos de las Reseñas de Google Maps y Yelp, con el objetivo principal de encontrar relaciones, patrones y tendencias de los datos, que permita comprender el sentimiento de los usuarios de acuerdo a sus experiencias de los servicios utilizados.
+
+<br>
+
+
+<p align="center">
+<img src="src/Imagenes/SituacionActual.png", height=300>
+</p>
+
+
+<div id="Objetivo"/>
+
+### **Objetivo General:**
 -  Realizar un análisis de la información de reseñas entre las plataformas de Yelp y Google Maps en los últimos 5 años, para identificar oportunidades de inversión.
 
 ### Objetivo Específicos:<Br>
@@ -24,6 +96,8 @@
 5. Evaluar y clasificar la calidad del servicio al cliente ofrecido por cada tipo de negocio.
 6. Determinar el rendimiento financiero por negocio en el periodo de tiempo establecido.
 
+
+<div id="Alcance"/>
 
 ### Alcance del Objetivo:
 1. Horizonte de Análisis:<Br> 
@@ -37,8 +111,58 @@
     - Palabras claves más mencionadas.
     - Relevancia de las reseñas.
     - Análisis de sentimientos.
- 
-### Estructura del Directorio de Trabajo:<br>
+
+
+
+
+<div id="Propuesta-T"/>
+
+# Propuesta Tecnológica
+
+<p align="center">
+<img src="src/Imagenes/PT.png", height=300>
+</p>
+
+
+
+<div id="CronogramaA"/>
+
+# Cronograma de Actividades
+
+<p align="center">
+<img src="src/Imagenes/CronogramaA.png", height=300>
+</p>
+
+
+
+
+<div id="Automatizacion"/>
+
+# Automatización
+
+<p align="center">
+<img src="src/Imagenes/Automatizacion.png", height=300>
+</p>
+
+
+
+
+<div id="Arquitectura-ML"/>
+
+# Arquitectura Machine Learning
+
+<p align="center">
+<img src="src/Imagenes/ML.png", height=300>
+</p>
+
+
+
+
+
+<div id="Estructura"/>
+
+# Estructura del Directorio de Trabajo:
+
 El directorio de trabajo del proyecto contiene las siguientes 5 carpetas:<br>
 1. DataSet:<br> 
     En este directorio se encuentran las carpetas de datos seleccionados para el análisis del proyecto:
@@ -60,71 +184,23 @@ El directorio de trabajo del proyecto contiene las siguientes 5 carpetas:<br>
     1. src/Imagenes: Contiene todas las imagenes utilzadas.
     2. src/Graficas: Contiene algunos gráficos de información relevantes del Proyecto.
 
-### Versiones de las librerias utilizadas<Br>
-+   pandas==1.3.5<Br>
-+   numpy==1.24.3<Br>
-+   pip==23.2.1<Br>
-+   scikit-learn==1.0.2<Br>
-+   regex==2023.5.5<Br>
-+   matplotlib==3.7.1<Br>
-+   seaborn=0.12.2<Br>
-+   requests==2.31.0<Br>
-
-# Inicio del Proyecto!!!
-
-# Índice
-1. [Extracción Transformación y Carga (ETL)](#sección-1)
-2. [Analisis Exploratorios de los Datos (EDA)](#sección-2)
-3. [KPIs](#sección-3)
-4. [Conclusiones](#sección-4)
-5. [Dashboard](#sección-5)
-6. [Diccionario de Términos](#sección-6)
 
 
-## Sección 1
-## 1. Extracción Transformación y Carga (ETL)
 
-### Fuente de datos
+
+
+<div id="Fuente-Datos"/>
+
+# Fuente de datos
 + [DataSet de Google Maps !!!](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA):  Google Drive Henry.
 
 + [DataSet de Yelp !!!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF):  Google Drive Henry..
 
-### 1.1. Selección de las Categorias.
 
 
-### 1.2. Carga de Datos.
+### Ir a Indice de Contenido
+
+- [Ir a Indice de Contenido](#Indice_Contenido)
 
 
-## Sección 2
-## 2. Analisis Exploratorios de los Datos (EDA).
 
-### 2.1. Procesamiento de Datos.
-
-### 2.1.1. Análisis de Valores Faltantes.
-
-
-### 2.1.2. Análisis de Valores Outliers.
-
-
-### 2.1.3. Análisis de Correlaciones.
-
-
-### 2.1.4. Análisis de Tendencias Temporales.
-
-
-## Sección 3
-### 3. Cálculos de los Indicadores Claves de Rendimiento (KPIs).
-
-
-## Sección 4
-## 4. Conclusiones
-
-## Sección 5
-## 5. DashBoard
-+   Se presentará directamente en Power BI.   
-
-## Sección 6
-## 6. Diccionario de Términos
-
-
-# Fin del Proyecto!!!
