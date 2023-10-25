@@ -1,0 +1,6 @@
+pandas
+streamlit
+streamlit_option_menu
+torch
+transformers
+nltk
